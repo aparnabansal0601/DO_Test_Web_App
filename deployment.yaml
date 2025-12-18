@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: mantoniazzz/manish101:latest
+        image: apbansal0601/tech-intro:latest
         ports:
         - containerPort: 80
