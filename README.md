@@ -215,7 +215,7 @@ doctl kubernetes cluster kubeconfig save 12345678-1234-5678-9012-123456789012
 
 # Step 04 - Install & configure Digital Ocean CLI(DOCTL), API Token & Kubernetes CLI (Kubectl)
 
-- **This step is required to connect the local linux instance to DOs kubernetes cluster. Run the below command.**
+- **This step is required to connect the local instance to DOs kubernetes cluster. Run the below command.**
 
 ```shell
 brew install doctl
