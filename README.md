@@ -195,7 +195,7 @@ The image should now be visible in the docker hub under your account. As the acc
 
 - **After some time (5-10min), Along with the Cluster, you will also see your two nodes also up and running.**
 
-  <img width="1728" height="1049" alt="image" src="https://github.com/user-attachments/assets/2264dfb9-5236-4059-b49b-847269e91934" />
+<img width="1728" height="1049" alt="image" src="https://github.com/user-attachments/assets/2264dfb9-5236-4059-b49b-847269e91934" />
 
 
 - **Under the section "Connecting and managing this cluster". make a note of the below command, where the long string at the end is the cluster id. For security reason, i have provided a wrong id.** 
@@ -249,7 +249,8 @@ doctl version 1.148.0-release
 
 - **Click on generate new token.**
 
-  ![image](https://github.com/user-attachments/assets/1d202f72-d1a0-4c7e-a2b1-0b7764d21373)
+  <img width="872" height="693" alt="image" src="https://github.com/user-attachments/assets/11f9fe0d-78bb-4168-815e-92a70e0d4865" />
+
 
 - **Give a meaningful name. Also select the expiry period. For simplicty. under scope, select full access. Click generate token**
 
