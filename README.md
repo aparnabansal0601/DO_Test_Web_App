@@ -5,11 +5,11 @@
 Containerize & Deploy a static website on DigitalOcean's Managed Kubernetes cluster. This repository provides a step-by-step tutorial, complete with code examples and configuration files, to help you get started with containerization and Kubernetes on DigitalOcean
 
 # Prerequisite
- - Any Linux virtual machine running Ubuntu connected to internet.
+ - Any machine connected to internet.
  - Docker installed and running. If not already, refer [here](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
  - DockerHub id. if not already, please refer [here](https://docs.docker.com/accounts/create-account/)
  - git client to clone the repository.
- - static website files. Feel free to use to sample in this repo [website-files](https://github.com/vinayvtiwari/simple-web-app-do/tree/main/website-files)
+ - static website files. Feel free to use to sample in this repo (https://github.com/aparnabansal0601/DO_Test_Web_App.git)
  - DigitalOcean login id with relevant permissions.
 
 
@@ -219,7 +219,8 @@ output:
 ```shell
 doctl kubernetes cluster kubeconfig save 12345678-1234-5678-9012-123456789012
 ```
-   ![image](https://github.com/user-attachments/assets/ede40925-3dcb-467d-b44f-a3523396a793)
+   <img width="1727" height="818" alt="image" src="https://github.com/user-attachments/assets/c4562d9b-4914-4f72-a0f4-985c6323e150" />
+
 
 **Kubernetes Cluster is now ready to run your own container images.**
 
@@ -252,7 +253,7 @@ apbansal@Aparna-MacBook-Pro ~ % doctl version
 doctl version 1.148.0-release
 ```
 
-```
+
 - **create a API Token from the DigitalOcean Control Panel. On the left hand panel, select API**
 
   ![image](https://github.com/user-attachments/assets/9e38c30d-d1ae-4b4d-a56b-1bd3bf3c214c)
