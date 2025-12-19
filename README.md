@@ -6,8 +6,8 @@ Containerize & Deploy a static website on DigitalOcean's Managed Kubernetes clus
 
 # Prerequisite
  - Any machine connected to internet.
- - Docker installed and running. If not already, refer [here](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
- - DockerHub id. if not already, please refer [here](https://docs.docker.com/accounts/create-account/)
+ - Docker installed and running.
+ - DockerHub id.
  - git client to clone the repository.
  - static website files. Feel free to use to sample in this repo (https://github.com/aparnabansal0601/DO_Test_Web_App.git)
  - DigitalOcean login id with relevant permissions.
