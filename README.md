@@ -249,12 +249,14 @@ doctl version 1.148.0-release
 
 - **Click on generate new token.**
 
-  <img width="872" height="693" alt="image" src="https://github.com/user-attachments/assets/11f9fe0d-78bb-4168-815e-92a70e0d4865" />
+  <img width="1281" height="854" alt="image" src="https://github.com/user-attachments/assets/68688913-073d-45a9-8c7c-bb34550ba123" />
+
 
 
 - **Give a meaningful name. Also select the expiry period. For simplicty. under scope, select full access. Click generate token**
 
-  ![image](https://github.com/user-attachments/assets/67a1b4aa-29df-441b-9171-da8193eba729)
+  <img width="668" height="812" alt="image" src="https://github.com/user-attachments/assets/d2ec84dd-ceec-47b4-a272-1bb2cbacb421" />
+
 
 - **Copy the token and keep it in a notepad. We will need this to authenticate doctl.**
 
