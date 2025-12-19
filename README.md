@@ -23,7 +23,7 @@ cd DO_Test_Web_App
 ```
 output:
  ```shell
- vinayti@osboxes:~$ git clone https://github.com/aparnabansal0601/DO_Test_Web_App.git
+ apbansal@Aparna-MacBook-Pro ~ % git clone https://github.com/aparnabansal0601/DO_Test_Web_App.git
 Cloning into 'DO_Test_Web_App'...
 remote: Enumerating objects: 34, done.
 remote: Counting objects: 100% (34/34), done.
