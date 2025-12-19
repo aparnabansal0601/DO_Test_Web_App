@@ -38,7 +38,7 @@ deployment.yaml	Dockerfile	index.html	LICENSE		README.md	service.yaml
 apbansal@Aparna-MacBook-Pro ~ %
 
 ```
-- **cd into the website-files directory and examine the content.**
+- **cd into the DO_Test_Web_App directory and examine the content.**
 
 ```shell
 apbansal@Aparna-MacBook-Pro DO_Test_Web_App % ls -l
